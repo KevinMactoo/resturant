@@ -15,7 +15,7 @@
     <div class="slide_content fade">
         <div id="image">
 
-            <img src="images/soup.png" width="650px" height="">
+            <img src="images/soup.png" width="600px" height="">
 
         </div>
 
@@ -58,7 +58,7 @@
     <div class="slide_content fade">
         <div id="image">
 
-            <img src="images/chicken.png" width="650px" height="">
+            <img src="images/chicken.png" width="600px" height="">
 
         </div>
 
@@ -99,7 +99,7 @@
     <div class="slide_content fade">
         <div id="image">
 
-            <img src="images/kaboos.png" width="650px" height="">
+            <img src="images/kaboos.png" width="600px" height="">
 
         </div>
 
